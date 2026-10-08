@@ -1,7 +1,7 @@
 {
   "name": "Skyline Clash",
   "short_name": "Skyline Clash",
-  "description": "A 2D arcade fighting game: 16 fighters, best of three.",
+  "description": "A 2D arcade fighting game: 17 fighters, 18 arenas, tournaments and stats.",
   "start_url": "./",
   "scope": "./",
   "display": "fullscreen",
